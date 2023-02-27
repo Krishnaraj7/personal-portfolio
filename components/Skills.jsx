@@ -59,7 +59,7 @@ const Skills = () => {
           Skills
         </h2>
         <p className=" py-4 max-w-lg text-gray-50">
-          My main area of my expertise is front end development.
+          My main area of expertise is front end development.
           <br />
           HTMl,CSS,JS,building small and medium web apps with Reactjs , Nextjs
           Using Bootstrap and Tailwind CSS. Curretly learning and working on

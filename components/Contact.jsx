@@ -16,7 +16,7 @@ const Contact = () => {
           <div className=" w-full md:w-1/2 h-full rounded-xl p-4">
             <h2 className=" py-2 text-2xl">Connect with me</h2>
             <p>
-              I &apos;m seeking out oppurtunities to collaborate with
+              I&apos;m seeking out oppurtunities to collaborate with
               companies,agencies,individuals. I want to bring my collective
               design experience to the table where we can work together to solve
               real business-problems in a way that optimizes all of our
