@@ -26,10 +26,7 @@ const Navbar = () => {
       id: 3,
       link: "me",
     },
-    // {
-    //     id: 4,
-    //     link: 'experience'
-    // },
+    
     {
       id: 5,
       link: "contact",
@@ -46,7 +43,7 @@ const Navbar = () => {
           <Link href="/#home">
             <h1
               className="text-3xl lg:text-4xl font-bold uppercase text-slate-800
-                         hover:scale-105 ease-out duration-300"
+                         hover:scale-105 ease-out duration-300 tracking-wider"
             >
               krishnaraj
             </h1>

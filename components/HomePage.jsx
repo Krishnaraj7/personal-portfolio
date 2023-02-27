@@ -1,12 +1,6 @@
-
-
 import Image from "next/image";
 import React from "react";
-import photo from '../public/newpic.png'
-
-
-
-
+import photo from "../public/newpic.png";
 
 const HomePage = () => {
   return (
@@ -21,7 +15,6 @@ const HomePage = () => {
         <p className=" text-gray-700 text-xl max-w-sm mx-auto">
           I love to work on web applications using technologies like
           <span className=" text-blue-900">
-            
             ReactJS, Tailwind,Bootstrap,Next JS.
           </span>
           Currently,I&apos;m focused on building responsive front end web

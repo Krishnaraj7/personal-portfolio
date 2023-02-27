@@ -22,9 +22,9 @@ const Skills = () => {
       src: nextjs,
     },
     {
-        id: 3,
-        title: "NodeS",
-        src: nodejs,
+      id: 3,
+      title: "NodeS",
+      src: nodejs,
     },
     {
       id: 4,
@@ -70,7 +70,7 @@ const Skills = () => {
             <div
               key={id}
               className="flex flex-col lg:flex-col gap-10 lg:gap-0 items-center justify-between
-                             p-6 shadow-lg rounded-xl hover:scale-110 ease-in duration-300 bg-gray-50
+                             p-6 shadow-lg rounded-xl hover:scale-105 ease-in duration-300 bg-gray-50
                         "
             >
               <Image src={src} width="60" height="60" alt={title} />
