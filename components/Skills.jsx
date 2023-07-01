@@ -8,6 +8,7 @@ import react from "../public/assets/skills/react.jpeg";
 import tailwind from "../public/assets/skills/tailwind.jpeg";
 import nextjs from "../public/assets/skills/nextjs.jpg";
 import nodejs from "../public/assets/skills/nodejs.png";
+import mui from "../public/assets/skills/mui logo.png";
 
 const Skills = () => {
   const skills = [
@@ -33,21 +34,26 @@ const Skills = () => {
     },
     {
       id: 5,
+      title: "Material UI",
+      src: mui,
+    },
+    {
+      id: 6,
       title: "Tailwind CSS",
       src: tailwind,
     },
     {
-      id: 6,
+      id: 7,
       title: "Bootstrap",
       src: bootstrap,
     },
     {
-      id: 7,
+      id: 8,
       title: "CSS",
       src: css,
     },
     {
-      id: 8,
+      id: 9,
       title: "HTML",
       src: html,
     },

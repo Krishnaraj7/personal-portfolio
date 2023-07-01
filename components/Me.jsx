@@ -19,7 +19,7 @@ const Me = () => {
             user-friendly websites and applications.
           </p>
           <div className="flex gap-10">
-            <Link href="./Krishnaraj - CV-1.pdf" download={true}>
+            <Link href="./Resume.pdf" >
               <div
                 className=" group flex items-center justify-center my-8 bg-indigo-900 text-white
                              px-6 py-3 font-bold uppercase rounded-md tracking-wider"

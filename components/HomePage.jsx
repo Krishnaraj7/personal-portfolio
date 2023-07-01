@@ -14,7 +14,7 @@ const HomePage = () => {
         </h1>
         <p className=" text-gray-700 text-xl max-w-sm mx-auto">
           I love to work on web applications using technologies like &nbsp;
-          <span className=" text-blue-900">
+          <span className=" text-blue-900 font-semibold">
              ReactJS, Tailwind,Bootstrap,Next JS.
           </span>
           Currently,I&apos;m focused on building responsive front end web
